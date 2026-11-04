@@ -1,0 +1,4 @@
+@recoillink/core/=node_modules/@recoillink/core/
+@openzeppelin/contracts/=node_modules/@recoillink/core/dependencies/@openzeppelin-contracts-4.9.3/contracts/
+@openzeppelin/contracts-upgradeable/=node_modules/@recoillink/core/dependencies/@openzeppelin-contracts-upgradeable-4.9.3/contracts/
+forge-std/=node_modules/@recoillink/core/dependencies/forge-std-1.9.2/src/
