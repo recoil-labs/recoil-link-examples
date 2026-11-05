@@ -54,7 +54,7 @@ Senders pay exactly the quoted fee and refund the rest to the caller. Overpaying
 
 ## Learn more
 
-- [Recoil Link docs](https://github.com/recoil-labs/recoil-link/tree/main/docs-site/docs): quickstart, send and receive messages, gas and fees, message debugging
+- [Recoil Link docs](https://docs.link.recoilpay.com): quickstart, send and receive messages, gas and fees, message debugging
 - [Recoil Link registry](https://github.com/recoil-labs/recoil-link-registry): chain metadata and contract addresses
 
 ## License
